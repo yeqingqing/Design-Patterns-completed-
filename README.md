@@ -7,6 +7,8 @@
 
 3.singleton pattern  单例模式
 
+4.command pattern 命令模式
+
 
 
 (详细文档私我 642585767@qq.com)
